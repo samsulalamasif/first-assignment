@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 128vh;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+}
+
+.header-contain {
+    position: absolute;
+    top: 35vh;
+    left: 1150px;
+}
+
+.items h1 {
+    font-size: 55px;
+    text-align: end;
+    color: white;
+    margin-block-end: 10px;
+}
+
+.items p {
+    color: white;
+    text-align: end;
+    margin-block-end: 25px;
+}
+
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+
+
+}
