@@ -85,17 +85,19 @@ ul {
     text-align: center;
 }
 
-.skill-title{
+.skill-title {
     width: 100;
     height: 40px;
     font-size: 30px;
 }
-.skill-description{
+
+.skill-description {
     font-size: 20px;
     letter-spacing: 2px;
     color: #737272;
 }
-footer{
+
+footer {
     width: 100;
     height: 65vh;
     background-color: black;
@@ -103,34 +105,39 @@ footer{
 }
 
 
-.footer-container{
-   display: flex;
-   justify-content: space-around;
-   padding-top: 5%;
-   color: white;
-   
-   
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    color: white;
+
+
 
 }
-.footer-title1{
+
+.footer-title1 {
     font-size: 47px;
     color: white;
 }
-.footer-title2{
+
+.footer-title2 {
+
     font-size: 25px;
     color: white;
 }
-.footer-desription{
+
+.footer-desription {
     letter-spacing: 1.5px;
 }
-.email{
+
+.email {
     font-size: 18;
     padding: 8px 40px 8px 18px;
     border: 2px solid white;
     border-radius: 8px;
 }
-    
-.Subscrib{
+
+.Subscrib {
     width: 100px;
     height: 30px;
     color: white;
@@ -139,5 +146,5 @@ footer{
     text-align: center;
     background-color: #005FAC;
     border-radius: 8px;
-    
+
 }
